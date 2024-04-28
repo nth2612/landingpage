@@ -1,3 +1,8 @@
+# Note
+
+Dự án này lấy mẫu landing page personal tại đây: https://startbootstrap.com/theme/personal
+Có chỉnh sửa một chút trong file.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
